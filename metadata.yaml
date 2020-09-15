@@ -1,11 +1,16 @@
 _repo: Eramaan-ritarit-5-naytoksinen-naytelma-Perapohjolan-tukkityomailta_63177
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Seppälä, Arvi A.
     gutenberg_agent_id: '52320'
     url: http://www.gutenberg.org/2009/agents/52320
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63177#Eramaan-ritarit-5-naytoksinen-naytelma-Perapohjolan-tukkityomailta
 gutenberg_issued: '2020-09-11'
 gutenberg_type: Text
 identifiers:
